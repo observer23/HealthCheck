@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Aşı Bilgileriniz"; ObjectID = "2CR-Kt-DRC"; */
+"2CR-Kt-DRC.text" = "Impf Info";
+
+/* Class = "UILabel"; text = "Diş Hekimi"; ObjectID = "4P1-rt-buD"; */
+"4P1-rt-buD.text" = "Zahnarzt";
+
+/* Class = "UIButton"; configuration.title = "Hızlı Randevu Al"; ObjectID = "RXP-Pc-sN6"; */
+"RXP-Pc-sN6.configuration.title" = "Schneller Termin";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RXP-Pc-sN6"; */
+"RXP-Pc-sN6.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Favori Doktorlarınız"; ObjectID = "ZRU-rx-1gV"; */
+"ZRU-rx-1gV.text" = "Ihre Lieblingsärzte";
+
+/* Class = "UILabel"; text = "Son İşlemleriniz"; ObjectID = "arn-vg-erF"; */
+"arn-vg-erF.text" = "Ihre letzten Transaktionen";
+
+/* Class = "UILabel"; text = "Kardiyolojist"; ObjectID = "czx-Uq-CGK"; */
+"czx-Uq-CGK.text" = "Kardiologe";
+
+/* Class = "UILabel"; text = "Covid 19 Test "; ObjectID = "mg9-4P-Lkf"; */
+"mg9-4P-Lkf.text" = "Covid 19 Test ";
+
+/* Class = "UILabel"; text = "Lab Sonuçlarınız"; ObjectID = "rCX-bw-yQj"; */
+"rCX-bw-yQj.text" = "Ihre Laborergebnisse";
+
+/* Class = "UILabel"; text = "Hoş Geldiniz, Ekin Emre Atasoy"; ObjectID = "rEf-vZ-rkm"; */
+"rEf-vZ-rkm.text" = "Wilkommen, Ekin Emre Atasoy";
+
+/* Class = "UILabel"; text = "KBB"; ObjectID = "zL1-tD-OoY"; */
+"zL1-tD-OoY.text" = "Atmung";
